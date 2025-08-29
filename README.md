@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# React_Project
+# React Calculator Project
 This is a simple calculator app developed by using React vite framework.
 == The project includes:
       * Components
